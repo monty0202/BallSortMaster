@@ -27,7 +27,7 @@
 
 本游戏已部署在GitHub Pages上，您可以通过以下链接访问：
 
-[点击这里游玩 Ball Sort Master](https://你的用户名.github.io/BallSortMaster/)
+[点击这里游玩 Ball Sort Master](https://monty0202.github.io/BallSortMaster/)
 
 ## 本地运行
 
